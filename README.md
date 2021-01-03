@@ -15,3 +15,4 @@ Day 1: Data Types | data_types.py |  https://www.hackerrank.com/challenges/30-da
 Day 2: Operators | operators.py |  https://www.hackerrank.com/challenges/30-operators/problem
 Day 3: Intro to Conditional Statements | intro_cond_statements.py |  https://www.hackerrank.com/challenges/30-conditional-statements/problem
 Day 4: Class vs. Instance | class_vs_instance.py |  https://www.hackerrank.com/challenges/30-class-vs-instance/problem
+Day 5: Loops | loops.py |  https://www.hackerrank.com/challenges/30-loops/problem
