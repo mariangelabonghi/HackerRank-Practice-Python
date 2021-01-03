@@ -8,8 +8,8 @@ This repository contains my solutions to HackerRank problems in Python3:
 
 
 
-Title        | Reference
------------- | -------------
-Day 0: Hello, World |  https://www.hackerrank.com/challenges/30-hello-world/problem
-Day 1: Data Types   |  https://www.hackerrank.com/challenges/30-data-types/problem
-Day 2: Operators   |  https://www.hackerrank.com/challenges/30-operators/problem
+Title        | Code      | Reference
+------------ | --------- | ---------
+Day 0: Hello, World | print_input.py | https://www.hackerrank.com/challenges/30-hello-world/problem
+Day 1: Data Types | data_types.py |  https://www.hackerrank.com/challenges/30-data-types/problem
+Day 2: Operators | operators.py |  https://www.hackerrank.com/challenges/30-operators/problem
