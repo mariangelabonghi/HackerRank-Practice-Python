@@ -18,3 +18,4 @@ Day 4: Class vs. Instance | class_vs_instance.py |  https://www.hackerrank.com/c
 Day 5: Loops | loops.py |  https://www.hackerrank.com/challenges/30-loops/problem
 Day 6: Let's Review | review.py |  https://www.hackerrank.com/challenges/30-review-loop/problem
 Day 7: Arrays | arrays.py |  https://www.hackerrank.com/challenges/30-arrays/problem
+Day 8: Dictionaries and Maps | dict_and_map.py |  https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem
