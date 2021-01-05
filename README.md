@@ -19,3 +19,4 @@ Day 5: Loops | loops.py |  https://www.hackerrank.com/challenges/30-loops/proble
 Day 6: Let's Review | review.py |  https://www.hackerrank.com/challenges/30-review-loop/problem
 Day 7: Arrays | arrays.py |  https://www.hackerrank.com/challenges/30-arrays/problem
 Day 8: Dictionaries and Maps | dict_and_map.py |  https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem
+Day 9: Recursion 3 | recursion.py |  https://www.hackerrank.com/challenges/30-recursion/problem
