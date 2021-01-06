@@ -22,3 +22,4 @@ Day 8: Dictionaries and Maps | dict_and_map.py |  https://www.hackerrank.com/cha
 Day 9: Recursion 3 | recursion.py |  https://www.hackerrank.com/challenges/30-recursion/problem
 Day 10: Binary Numbers | binary_numbers.py |  https://www.hackerrank.com/challenges/30-binary-numbers/problem
 Day 11: 2D Arrays | arrays_2d.py |  https://www.hackerrank.com/challenges/30-2d-arrays/problem
+Day 12: Inheritance | inheritance.py |  https://www.hackerrank.com/challenges/30-inheritance/problem
