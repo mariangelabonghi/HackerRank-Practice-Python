@@ -24,3 +24,4 @@ Day 10: Binary Numbers | binary_numbers.py |  https://www.hackerrank.com/challen
 Day 11: 2D Arrays | arrays_2d.py |  https://www.hackerrank.com/challenges/30-2d-arrays/problem
 Day 12: Inheritance | inheritance.py |  https://www.hackerrank.com/challenges/30-inheritance/problem
 Day 13: Abstract Classes | abstract_classes.py |  https://www.hackerrank.com/challenges/30-abstract-classes/problem
+Day 14: Scope | scope.py |  https://www.hackerrank.com/challenges/30-scope/problem
