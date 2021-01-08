@@ -26,3 +26,4 @@ Day 12: Inheritance | inheritance.py |  https://www.hackerrank.com/challenges/30
 Day 13: Abstract Classes | abstract_classes.py |  https://www.hackerrank.com/challenges/30-abstract-classes/problem
 Day 14: Scope | scope.py |  https://www.hackerrank.com/challenges/30-scope/problem
 Day 15: Linked List | linked_list.py |  https://www.hackerrank.com/challenges/30-linked-list/problem
+Day 16: Exceptions - String to Integer | ex_str_to_int.py |  https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem
