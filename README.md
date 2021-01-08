@@ -25,3 +25,4 @@ Day 11: 2D Arrays | arrays_2d.py |  https://www.hackerrank.com/challenges/30-2d-
 Day 12: Inheritance | inheritance.py |  https://www.hackerrank.com/challenges/30-inheritance/problem
 Day 13: Abstract Classes | abstract_classes.py |  https://www.hackerrank.com/challenges/30-abstract-classes/problem
 Day 14: Scope | scope.py |  https://www.hackerrank.com/challenges/30-scope/problem
+Day 15: Linked List | linked_list.py |  https://www.hackerrank.com/challenges/30-linked-list/problem
