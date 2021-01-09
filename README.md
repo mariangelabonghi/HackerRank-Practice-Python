@@ -28,3 +28,4 @@ Day 14: Scope | scope.py |  https://www.hackerrank.com/challenges/30-scope/probl
 Day 15: Linked List | linked_list.py |  https://www.hackerrank.com/challenges/30-linked-list/problem
 Day 16: Exceptions - String to Integer | ex_str_to_int.py |  https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem
 Day 17: More Exceptions | more_except.py |  https://www.hackerrank.com/challenges/30-more-exceptions/problem
+Day 18: Queues and Stacks | queue_and_stack.py |  https://www.hackerrank.com/challenges/30-queues-stacks/problem
