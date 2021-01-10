@@ -3,6 +3,7 @@
 This repository contains my solutions to HackerRank problems in Python3:
 
 * 30 Days of Code
+* Problem Solving
 
 ## 30 Days of Code
 
@@ -32,3 +33,9 @@ Day 18: Queues and Stacks | queue_and_stack.py |  https://www.hackerrank.com/cha
 Day 19: Interfaces | interfaces.py |  https://www.hackerrank.com/challenges/30-interfaces/problem
 Day 20: Sorting | sorting.py |  https://www.hackerrank.com/challenges/30-sorting/problem
 Day 21: Generics | NA: Python is not available for this challenge |  https://www.hackerrank.com/challenges/30-generics/problem
+
+
+## Problem Solving
+
+Title        | Code      | Reference
+------------ | --------- | ---------
