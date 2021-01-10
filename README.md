@@ -40,3 +40,4 @@ Day 21: Generics | NA: Python is not available for this challenge |  https://www
 Title        | Code      | Reference
 ------------ | --------- | ---------
 Solve Me First | solve_me_first.py |  https://www.hackerrank.com/challenges/solve-me-first/problem
+Simple Array Sum| array_sum.py |  https://www.hackerrank.com/challenges/simple-array-sum/problem
