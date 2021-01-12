@@ -33,7 +33,7 @@ Day 18: Queues and Stacks | queue_and_stack.py |  https://www.hackerrank.com/cha
 Day 19: Interfaces | interfaces.py |  https://www.hackerrank.com/challenges/30-interfaces/problem
 Day 20: Sorting | sorting.py |  https://www.hackerrank.com/challenges/30-sorting/problem
 Day 21: Generics | NA: Python is not available for this challenge |  https://www.hackerrank.com/challenges/30-generics/problem
-
+Day 22: Binary Search Trees | binary_search.py |  https://www.hackerrank.com/challenges/30-binary-search-trees/problem
 
 ## Problem Solving
 
