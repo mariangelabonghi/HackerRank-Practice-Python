@@ -45,3 +45,4 @@ Solve Me First | solve_me_first.py |  https://www.hackerrank.com/challenges/solv
 Simple Array Sum| array_sum.py |  https://www.hackerrank.com/challenges/simple-array-sum/problem
 Compare the Triplets| compare_triplets.py |  https://www.hackerrank.com/challenges/compare-the-triplets/problem
 A Very Big Sum| big_sum.py |  https://www.hackerrank.com/challenges/a-very-big-sum/problem
+Diagonal Difference| diagonal_difference.py |  https://www.hackerrank.com/challenges/diagonal-difference/problem
