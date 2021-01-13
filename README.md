@@ -44,3 +44,4 @@ Title        | Code      | Reference
 Solve Me First | solve_me_first.py |  https://www.hackerrank.com/challenges/solve-me-first/problem
 Simple Array Sum| array_sum.py |  https://www.hackerrank.com/challenges/simple-array-sum/problem
 Compare the Triplets| compare_triplets.py |  https://www.hackerrank.com/challenges/compare-the-triplets/problem
+A Very Big Sum| big_sum.py |  https://www.hackerrank.com/challenges/a-very-big-sum/problem
