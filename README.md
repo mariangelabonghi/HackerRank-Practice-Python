@@ -35,6 +35,7 @@ Day 20: Sorting | sorting.py |  https://www.hackerrank.com/challenges/30-sorting
 Day 21: Generics | NA: Python is not available for this challenge |  https://www.hackerrank.com/challenges/30-generics/problem
 Day 22: Binary Search Trees | binary_search.py |  https://www.hackerrank.com/challenges/30-binary-search-trees/problem
 Day 23: BST Level-Order Traversal | level_order.py |  https://www.hackerrank.com/challenges/30-binary-trees/problem
+Day 24: More Linked Lists | remove_duplicates.py |  https://www.hackerrank.com/challenges/30-linked-list-deletion/problem
 
 ## Problem Solving
 
