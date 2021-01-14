@@ -47,3 +47,4 @@ Simple Array Sum| array_sum.py |  https://www.hackerrank.com/challenges/simple-a
 Compare the Triplets| compare_triplets.py |  https://www.hackerrank.com/challenges/compare-the-triplets/problem
 A Very Big Sum| big_sum.py |  https://www.hackerrank.com/challenges/a-very-big-sum/problem
 Diagonal Difference| diagonal_difference.py |  https://www.hackerrank.com/challenges/diagonal-difference/problem
+Plus Minus| prop_plus_minus.py |  https://www.hackerrank.com/challenges/plus-minus/problem
