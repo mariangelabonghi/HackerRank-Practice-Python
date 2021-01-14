@@ -36,6 +36,7 @@ Day 21: Generics | NA: Python is not available for this challenge |  https://www
 Day 22: Binary Search Trees | binary_search.py |  https://www.hackerrank.com/challenges/30-binary-search-trees/problem
 Day 23: BST Level-Order Traversal | level_order.py |  https://www.hackerrank.com/challenges/30-binary-trees/problem
 Day 24: More Linked Lists | remove_duplicates.py |  https://www.hackerrank.com/challenges/30-linked-list-deletion/problem
+Day 25: Running Time and Complexity | prime_number.py |  https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem
 
 ## Problem Solving
 
