@@ -51,3 +51,4 @@ A Very Big Sum| big_sum.py |  https://www.hackerrank.com/challenges/a-very-big-s
 Diagonal Difference| diagonal_difference.py |  https://www.hackerrank.com/challenges/diagonal-difference/problem
 Plus Minus| prop_plus_minus.py |  https://www.hackerrank.com/challenges/plus-minus/problem
 Staircase| staircase.py |  https://www.hackerrank.com/challenges/staircase/problem
+Mini-Max Sum| min_max_sum.py |  https://www.hackerrank.com/challenges/mini-max-sum/problem
