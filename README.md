@@ -38,6 +38,7 @@ Day 23: BST Level-Order Traversal | level_order.py |  https://www.hackerrank.com
 Day 24: More Linked Lists | remove_duplicates.py |  https://www.hackerrank.com/challenges/30-linked-list-deletion/problem
 Day 25: Running Time and Complexity | prime_number.py |  https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem
 Day 26: Nested Logic | nested_logic.py |  https://www.hackerrank.com/challenges/30-nested-logic/problem
+Day 27: Testing | testing.py |  https://www.hackerrank.com/challenges/30-testing/problem
 
 ## Problem Solving
 
