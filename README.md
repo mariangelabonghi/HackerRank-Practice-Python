@@ -53,3 +53,4 @@ Diagonal Difference| diagonal_difference.py |  https://www.hackerrank.com/challe
 Plus Minus| prop_plus_minus.py |  https://www.hackerrank.com/challenges/plus-minus/problem
 Staircase| staircase.py |  https://www.hackerrank.com/challenges/staircase/problem
 Mini-Max Sum| min_max_sum.py |  https://www.hackerrank.com/challenges/mini-max-sum/problem
+Birthday Cake Candles | count_tall_candles.py |  https://www.hackerrank.com/challenges/birthday-cake-candles/problem
