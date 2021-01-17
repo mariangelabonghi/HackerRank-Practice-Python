@@ -39,6 +39,7 @@ Day 24: More Linked Lists | remove_duplicates.py |  https://www.hackerrank.com/c
 Day 25: Running Time and Complexity | prime_number.py |  https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem
 Day 26: Nested Logic | nested_logic.py |  https://www.hackerrank.com/challenges/30-nested-logic/problem
 Day 27: Testing | testing.py |  https://www.hackerrank.com/challenges/30-testing/problem
+Day 28: RegEx, Patterns, and Intro to Databases | name_gmail.py |  https://www.hackerrank.com/challenges/30-regex-patterns/problem
 
 ## Problem Solving
 
