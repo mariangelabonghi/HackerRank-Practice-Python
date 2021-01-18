@@ -40,6 +40,7 @@ Day 25: Running Time and Complexity | prime_number.py |  https://www.hackerrank.
 Day 26: Nested Logic | nested_logic.py |  https://www.hackerrank.com/challenges/30-nested-logic/problem
 Day 27: Testing | testing.py |  https://www.hackerrank.com/challenges/30-testing/problem
 Day 28: RegEx, Patterns, and Intro to Databases | name_gmail.py |  https://www.hackerrank.com/challenges/30-regex-patterns/problem
+Day 29: Bitwise AND | bitwise_and.py |  https://www.hackerrank.com/challenges/30-bitwise-and/problem
 
 ## Problem Solving
 
