@@ -55,3 +55,4 @@ Plus Minus| prop_plus_minus.py |  https://www.hackerrank.com/challenges/plus-min
 Staircase| staircase.py |  https://www.hackerrank.com/challenges/staircase/problem
 Mini-Max Sum| min_max_sum.py |  https://www.hackerrank.com/challenges/mini-max-sum/problem
 Birthday Cake Candles | count_tall_candles.py |  https://www.hackerrank.com/challenges/birthday-cake-candles/problem
+Time Conversion | time_conversion.py |  https://www.hackerrank.com/challenges/time-conversion/problem
