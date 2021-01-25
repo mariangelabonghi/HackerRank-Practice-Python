@@ -62,3 +62,4 @@ Number Line Jumps | n_line_jump.py |  https://www.hackerrank.com/challenges/kang
 Between Two Sets | between_two_sets.py |  https://www.hackerrank.com/challenges/between-two-sets/problem
 Breaking the Records | breaking_records.py |  https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
 Subarray Division | suburray_division.py |  https://www.hackerrank.com/challenges/the-birthday-bar/problem
+Divisible Sum Pairs | div_sum_pairs.py |  https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
