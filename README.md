@@ -64,3 +64,4 @@ Breaking the Records | breaking_records.py |  https://www.hackerrank.com/challen
 Subarray Division | suburray_division.py |  https://www.hackerrank.com/challenges/the-birthday-bar/problem
 Divisible Sum Pairs | div_sum_pairs.py |  https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
 Migratory Birds | migratory_birds.py |  https://www.hackerrank.com/challenges/migratory-birds/problem
+Day of the Programmer | programmer_day.py |  https://www.hackerrank.com/challenges/day-of-the-programmer/forum
