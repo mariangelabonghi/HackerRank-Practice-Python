@@ -68,3 +68,4 @@ Day of the Programmer | programmer_day.py |  https://www.hackerrank.com/challeng
 Bill Division | bill_division.py |  https://www.hackerrank.com/challenges/bon-appetit/problem
 Sales by Match | sales_match.py |  https://www.hackerrank.com/challenges/sock-merchant/problem
 Drawing Book | drawing_book.py |  https://www.hackerrank.com/challenges/drawing-book/problem
+Counting Valleys | counting_valleys.py |  https://www.hackerrank.com/challenges/counting-valleys/problem
