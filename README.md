@@ -69,3 +69,4 @@ Bill Division | bill_division.py |  https://www.hackerrank.com/challenges/bon-ap
 Sales by Match | sales_match.py |  https://www.hackerrank.com/challenges/sock-merchant/problem
 Drawing Book | drawing_book.py |  https://www.hackerrank.com/challenges/drawing-book/problem
 Counting Valleys | counting_valleys.py |  https://www.hackerrank.com/challenges/counting-valleys/problem
+Electronics Shop | electronics_shop.py |  https://www.hackerrank.com/challenges/electronics-shop/problem
